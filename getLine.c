@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * input_buf - buffers chained commands
+ * input_buf - buffers chained commandss
  * @info: parameter struct
- * @buf: address of buffer
+ * @buf: address of bufferz
  * @len: address of len var
  *
  * Return: bytes read
